@@ -14,11 +14,10 @@ This app allows coaches to set their availability and manage their schedule.
 
 To set your availability as a coach:
 
-1. Fill out the Coach Details form with your name and email
+1. Fill out the Coach Details form with your name 
 2. Add your availability by selecting a day of the week, start time, and end time
 3. Click "Add Availability" to save your availability
-4. To edit or delete an availability, click the "Edit" or "Delete" button next to the availability in the list
-5. To view all your availabilities, go to the "Availabilities" page
+4. To view all your availabilities, go to the "Availabilities" page
 
 ## Technologies Used
 
